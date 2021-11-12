@@ -1,6 +1,6 @@
 # Speach-Recognition
 
-This is a simple speach Recognition algorithum. This was a Learning Project, in which I learnt how to apply machine learning on sounds,using a concepts like Mfcc and role of fourier transform.
+This is a simple speech recognition algorithm. This was a Learning Project, in which I learned how to apply machine learning to sounds, using concepts like Mfcc and the role of Fourier transform.
  
 <br>
 
